@@ -1,0 +1,9 @@
+<?php
+$currency="penny";
+$sampleString="A $currency saved is a $currency earned.";
+echo $sampleString;
+$var=2;
+echo "{$var}nd place.";
+echo $var."nd place.";
+$misc="St. Patrick\"s Day";
+echo $misc;
